@@ -29,7 +29,7 @@
     "nodemailer": "^6.4.2",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-router-dom": "^5.1.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "engines": {
     "node": "10.16.0"
